@@ -1,6 +1,6 @@
 const DefaultProfile = () => {
     return (
-        <p>No profiles to be found...</p>
+        <p>NO PROFILES HERE.</p>
     );
 };
 
