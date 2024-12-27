@@ -18,9 +18,8 @@ const Profile = () => {
                 <Spinach />
             ) : (
                 <DefaultProfile />
-                
-            )
-            }
+            )}
+            
         </div>
     );
 };
